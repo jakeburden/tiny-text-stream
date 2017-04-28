@@ -1,21 +1,28 @@
 {
   "name": "tiny-text-stream",
   "version": "1.0.0",
-  "description": "",
+  "description": "stream tiny text",
   "main": "index.js",
-  "scripts": {
-    "test": "tape test/test.js"
-  },
-  "keywords": ['tiny-text', 'stream'],
-  "author": "Jake Burden <@o91tsjBgL0l0zs475aRWYSAXFxvirZS7VrXmirY/msI=.ed25519>",
-  "license": "ISC",
   "dependencies": {
-    "through2": "^2.0.3",
-    "tiny-text": "^1.0.1"
+    "tiny-text": "^1.0.1",
+    "through2": "^2.0.3"
   },
   "devDependencies": {
     "concat-stream": "^1.6.0",
     "tape": "^4.6.3"
-  }
+  },
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/tiny-text-stream.git"
+  },
+  "keywords": ["tiny-text", "stream"],
+  "author": "Jake Burden <@o91tsjBgL0l0zs475aRWYSAXFxvirZS7VrXmirY/msI=.ed25519>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jekrb/tiny-text-stream/issues"
+  },
+  "homepage": "https://github.com/jekrb/tiny-text-stream#readme"
 }
-
