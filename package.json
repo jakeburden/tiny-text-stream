@@ -1,6 +1,6 @@
 {
   "name": "tiny-text-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stream tiny text",
   "main": "index.js",
   "dependencies": {
@@ -18,7 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/jekrb/tiny-text-stream.git"
   },
-  "keywords": ["tiny-text", "stream"],
+  "keywords": [
+    "tiny-text",
+    "stream"
+  ],
   "author": "Jake Burden <@o91tsjBgL0l0zs475aRWYSAXFxvirZS7VrXmirY/msI=.ed25519>",
   "license": "MIT",
   "bugs": {
