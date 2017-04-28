@@ -1,0 +1,21 @@
+{
+  "name": "tiny-text-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": ['tiny-text', 'stream'],
+  "author": "Jake Burden <@o91tsjBgL0l0zs475aRWYSAXFxvirZS7VrXmirY/msI=.ed25519>",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "tiny-text": "^1.0.1"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.6.0",
+    "tape": "^4.6.3"
+  }
+}
+
