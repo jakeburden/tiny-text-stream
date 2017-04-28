@@ -5,7 +5,7 @@
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
-streamable (tiny-text)[https://github.com/rachelnicole/tiny-text]
+streamable [tiny-text](https://github.com/rachelnicole/tiny-text)
 
 ```
 npm install tiny-text-stream -S
